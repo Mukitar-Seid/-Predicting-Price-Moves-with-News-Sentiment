@@ -33,3 +33,6 @@ MANIFEST
 # Environment files (optional)
 .env
 .env.local
+#wheel files
+*.whl
+
