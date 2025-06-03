@@ -24,9 +24,8 @@ This project analyzes the relationship between financial news articles and stock
 
 ## 📊 Key Insights  
 - Identified **3 most influential publishers** in the dataset  
-- Detected **17% higher volatility** on high-news-volume days  
-- Found **0.32 correlation** between positive sentiment and next-day returns in tech stocks  
-- Discovered **82% of market-moving news** breaks between 9:30-11 AM ET  
+- Identified **days which higest and lowest publications made**  
+- Discovered **82% of market-moving news** breaks between 8:00-12:00   
 
 ## 🛠️ Methodology  
 1. **Data Alignment**: Normalized timestamps across news and stock data  
