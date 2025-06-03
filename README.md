@@ -1,7 +1,7 @@
 
 ---
 
-# 📰 Financial News & Stock Market Correlation Analysis  
+# 📰 Predicting Price Moves with News Sentiment  
 
 This project analyzes the relationship between financial news articles and stock price movements. It combines **natural language processing (NLP), time series analysis, and quantitative finance techniques** to uncover patterns between news sentiment, publication timing, and market reactions.
 
