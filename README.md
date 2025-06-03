@@ -1,7 +1,3 @@
-# Predicting Price Moves with News Sentiment
-This project focuses on the detailed analysis of a large corpus of financial news data to discover correlations between news sentiment and stock market movements
-
-Here’s a polished **README.md** section for your project that explains your analysis without code snippets:
 
 ---
 
@@ -39,18 +35,13 @@ This project analyzes the relationship between financial news articles and stock
 4. **Visual Validation**: Created heatmaps, time series plots, and stem graphs  
 
 ## 📂 Dataset  
-- **News Data**: 45,000+ articles (2018-2023) from 12 major financial publishers  
-- **Stock Data**: Minute-level OHLCV + daily fundamentals for S&P 500 constituents  
+- **raw_analyst_ratings**: articles from 10 major financial publishers  
+- **yfinance_data**: Yahoo financial data for each stock  
 
 ## 🚀 Potential Applications  
 - **Algorithmic Trading**: News-based trigger signals  
 - **Risk Management**: Early warning system for sentiment shifts  
 - **Media Monitoring**: Quantify publisher influence on markets  
-
-## 📜 Next Steps  
-- Expand to multi-asset analysis (forex, crypto)  
-- Develop real-time sentiment dashboard  
-- Test ML models for return prediction  
 
 ---
 
